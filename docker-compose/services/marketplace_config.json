@@ -8,7 +8,7 @@
     "externalUrl": "https://dex.9mm.pro/swap?chain=pulsechain",
     "logo": "https://dex.9mm.pro/logo.png",
     "categories": ["DEX", "DeFi"],
-    "author": "https://9mm.pro",
+    "author": "http://9mm.pro",
     "external": false,
     "priority": 9
   },
@@ -21,7 +21,7 @@
     "externalUrl": "https://9x.9mm.pro/#/swap?chainId=369",
     "logo": "https://9x.9mm.pro/static/media/9mmx.b40c30eda3b2f66f65ed.png",
     "categories": ["DEX", "DeFi"],
-    "author": "https://9mm.pro",
+    "author": "http://9mm.pro",
     "external": false,
     "priority": 8
   },
@@ -34,7 +34,8 @@
     "logo": "https://cdn.dexscreener.com/fetch?src=https%3A%2F%2Fcoin-images.coingecko.com%2Fcoins%2Fimages%2F34675%2Flarge%2FHOC.png%3F1705683057",
     "categories": ["NFT", "Marketplace"],
     "author": "PulseMarket",
-    "external": true
+    "external": false,
+    "priority": 11
   },
   {
     "id": "pulseln",
@@ -45,6 +46,46 @@
     "logo": "https://help.pulseln.com/images/p/l/n/-/i/pln-index10-eb3c5aa2.png",
     "categories": ["Bridge", "DEX"],
     "author": "PulseLN",
-    "external": true
+    "external": false,
+    "priority": 10
+  },
+  {
+    "id": "empseal-bridge",
+    "title": "EmpSeal Native Bridge",
+    "shortDescription": "Cross-chain bridge for PulseChain assets",
+    "description": "EmpSeal is a native bridge providing secure and efficient cross-chain transfers for PulseChain assets.",
+    "url": "https://www.empseal.xyz/native-bridge",
+    "externalUrl": "https://www.empseal.xyz/native-bridge",
+    "logo": "https://pbs.twimg.com/media/GlPp-X1aMAAeq5c.jpg",
+    "categories": ["Bridge", "DeFi"],
+    "author": "EmpSeal",
+    "external": false,
+    "priority": 7
+  },
+  {
+    "id": "staker-class",
+    "title": "The Staker Class",
+    "shortDescription": "PulsePhunks",
+    "description": "The Staker Class",
+    "url": "https://thestakerclass.com/",
+    "externalUrl": "https://thestakerclass.com/",
+    "logo": "https://pbs.twimg.com/profile_images/1902788659595935744/_BkhFmFE_400x400.jpg",
+    "categories": ["Staking", "Education"],
+    "author": "The Staker Class",
+    "external": false,
+    "priority": 6
+  },
+  {
+    "id": "hoami",
+    "title": "Hex Orange Address Mining Instance",
+    "shortDescription": "Peel 2 Peel",
+    "description": "The Hex Orange Address Minting Instance represents a fractional share within the TangGang community, symbolizing 1/10,000th of the collective value. This token is designed to foster community participation and engagement, inviting holders to be involved in various community-led initiatives.",
+    "url": "https://app.hexoacoin.com/",
+    "externalUrl": "https://app.hexoacoin.com/",
+    "logo": "https://app.hexoacoin.com/favicon.ico",
+    "categories": ["DeFi", "Token"],
+    "author": "HEXOA",
+    "external": false,
+    "priority": 5
   }
 ] 
