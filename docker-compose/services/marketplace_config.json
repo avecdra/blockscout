@@ -8,7 +8,7 @@
     "externalUrl": "https://dex.9mm.pro/swap?chain=pulsechain",
     "logo": "https://dex.9mm.pro/logo.png",
     "categories": ["DEX", "DeFi"],
-    "author": "http://9mm.pro",
+    "author": "https://9mm.pro",
     "external": false,
     "priority": 9
   },
@@ -21,7 +21,7 @@
     "externalUrl": "https://9x.9mm.pro/#/swap?chainId=369",
     "logo": "https://9x.9mm.pro/static/media/9mmx.b40c30eda3b2f66f65ed.png",
     "categories": ["DEX", "DeFi"],
-    "author": "http://9mm.pro",
+    "author": "https://9mm.pro",
     "external": false,
     "priority": 8
   },
