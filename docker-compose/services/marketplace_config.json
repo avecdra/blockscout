@@ -20,7 +20,7 @@
     "url": "https://9x.9mm.pro/#/swap?chainId=369&theme=dark&embedded=true",
     "externalUrl": "https://9x.9mm.pro/#/swap?chainId=369",
     "logo": "https://9x.9mm.pro/static/media/9mmx.b40c30eda3b2f66f65ed.png",
-    "categories": ["DEX", "DeFi"],
+    "categories": ["DeFi"],
     "author": "http://9mm.pro",
     "external": false,
     "priority": 8
@@ -44,7 +44,7 @@
     "description": "Cross-chain bridge and swap platform supporting PulseChain, Lightning Network, BNB Chain, Ethereum, Solana, and more networks",
     "url": "https://app.pulseln.com/?ref=4kn8O73R85s4866Rn588n9212035S7p9QP40p2q141",
     "logo": "https://help.pulseln.com/images/p/l/n/-/i/pln-index10-eb3c5aa2.png",
-    "categories": ["Bridge", "DEX"],
+    "categories": ["Bridge"],
     "author": "PulseLN",
     "external": false,
     "priority": 10
@@ -70,7 +70,7 @@
     "url": "https://thestakerclass.com/",
     "externalUrl": "https://thestakerclass.com/",
     "logo": "https://pbs.twimg.com/profile_images/1902788659595935744/_BkhFmFE_400x400.jpg",
-    "categories": ["Staking", "Education"],
+    "categories": ["NFT"],
     "author": "The Staker Class",
     "external": false,
     "priority": 6
@@ -83,7 +83,7 @@
     "url": "https://app.hexoacoin.com/",
     "externalUrl": "https://app.hexoacoin.com/",
     "logo": "https://app.hexoacoin.com/favicon.ico",
-    "categories": ["DeFi", "Token"],
+    "categories": ["DeFi"],
     "author": "HEXOA",
     "external": false,
     "priority": 5
