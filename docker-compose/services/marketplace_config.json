@@ -1,0 +1,48 @@
+[
+  {
+    "id": "9mm-dex",
+    "title": "9mm.pro DEX",
+    "shortDescription": "V2-V3 DEX with Revenue Share mechanism",
+    "description": "http://9mm.pro is a decentralized exchange offering unique trading features and deep liquidity pools on PulseChain.",
+    "url": "https://dex.9mm.pro/swap?chain=pulsechain",
+    "logo": "https://dex.9mm.pro/logo.png",
+    "categories": ["DEX", "DeFi"],
+    "author": "http://9mm.pro",
+    "external": false,
+    "priority": 9
+  },
+  {
+    "id": "9x",
+    "title": "9X DEX Aggregator",
+    "shortDescription": "Advanced DEX Aggregator for PulseChain",
+    "description": "Multi-DEX aggregator providing optimal swap routes and best prices across PulseChain DEXes",
+    "url": "https://9x.9mm.pro/#/swap?chainId=369&theme=dark&embedded=true",
+    "logo": "https://9x.9mm.pro/static/media/9mmx.b40c30eda3b2f66f65ed.png",
+    "categories": ["DEX", "DeFi"],
+    "author": "http://9mm.pro",
+    "external": false,
+    "priority": 8
+  },
+  {
+    "id": "pulsemarket",
+    "title": "PulseMarket",
+    "shortDescription": "Leading NFT marketplace on PulseChain",
+    "description": "PulseMarket is the premier NFT marketplace on PulseChain, offering a wide range of digital collectibles and artwork.",
+    "url": "https://pulsemarket.app",
+    "logo": "https://cdn.dexscreener.com/fetch?src=https%3A%2F%2Fcoin-images.coingecko.com%2Fcoins%2Fimages%2F34675%2Flarge%2FHOC.png%3F1705683057",
+    "categories": ["NFT", "Marketplace"],
+    "author": "PulseMarket",
+    "external": true
+  },
+  {
+    "id": "pulseln",
+    "title": "PulseLN Bridge",
+    "shortDescription": "Multi-chain Bridge and Swap Platform",
+    "description": "Cross-chain bridge and swap platform supporting PulseChain, Lightning Network, BNB Chain, Ethereum, Solana, and more networks",
+    "url": "https://app.pulseln.com/?ref=4kn8O73R85s4866Rn588n9212035S7p9QP40p2q141",
+    "logo": "https://help.pulseln.com/images/p/l/n/-/i/pln-index10-eb3c5aa2.png",
+    "categories": ["Bridge", "DEX"],
+    "author": "PulseLN",
+    "external": true
+  }
+] 
