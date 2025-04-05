@@ -1,0 +1,33 @@
+[{
+		"title": "Ethereum",
+		"url": "https://eth.blockscout.com/",
+		"group": "Mainnets",
+		"isActive": true,
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+	},
+	{
+		"title": "Base Chain",
+		"url": "https://base.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg"
+	},
+ 	{
+		"title": "Sonic Chain",
+		"url": "https://sonicscan.org/",
+		"group": "Mainnets",
+		"icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/34753.png"
+	},
+ 	{
+		"title": "Chia",
+		"url": "https://spacescan.io/",
+		"group": "Mainnets",
+		"icon": "https://images.spacescan.io/assets/spacescan-logo-192.webp"
+	},
+	{
+		"title": "PulseChain",
+		"url": "https://scan.v4.testnet.pulsechain.com/",
+		"group": "Testnets",
+		"icon": "https://www.gopulsechain.com/files/LogoVector.svg",
+		"invertIconInDarkMode": true
+	}
+]
