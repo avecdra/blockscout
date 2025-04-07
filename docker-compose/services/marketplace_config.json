@@ -8,7 +8,7 @@
     "externalUrl": "https://dex.9mm.pro/swap?chain=pulsechain",
     "logo": "https://dex.9mm.pro/logo.png",
     "categories": ["DEX", "DeFi"],
-    "author": "http://9mm.pro",
+    "author": "9mm.pro",
     "external": false,
     "priority": 9
   },
@@ -21,7 +21,7 @@
     "externalUrl": "https://9x.9mm.pro/#/swap?chainId=369",
     "logo": "https://9x.9mm.pro/static/media/9mmx.b40c30eda3b2f66f65ed.png",
     "categories": ["DeFi"],
-    "author": "http://9mm.pro",
+    "author": "9mm.pro",
     "external": false,
     "priority": 8
   },
@@ -84,8 +84,20 @@
     "externalUrl": "https://app.hexoacoin.com/",
     "logo": "https://app.hexoacoin.com/favicon.ico",
     "categories": ["DeFi"],
-    "author": "HEXOA",
+    "author": "HOA",
     "external": false,
     "priority": 5
+  },
+  {
+    "id": "pulsex",
+    "title": "PulseX",
+    "shortDescription": "PulseChain's native DEX",
+    "description": "PulseX is the native decentralized exchange on PulseChain, offering deep liquidity and low fees.",
+    "url": "https://pulsex.mypinata.cloud/ipfs/bafybeibzu7nje2o2tufb3ifitjrto3n3xcwon7fghq2igtcupulfubnrim/",
+    "logo": "https://dd.dexscreener.com/ds-data/tokens/pulsechain/0x95b303987a60c71504d99aa1b13b4da07b0790ab.png?size=lg&key=105144",
+    "categories": ["DEX", "DeFi"],
+    "author": "PulseX",
+    "external": false,
+    "priority": 12
   }
 ] 
