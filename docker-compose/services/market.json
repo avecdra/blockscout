@@ -25,5 +25,6 @@
             "webUrl": "https://dex.9mm.pro/swap?chain=pulsechain",
             "tags": ["V3", "DEX"],
             "description": "Efficient Liquidity"
+        }
     ]
 }
