@@ -285,6 +285,18 @@
       "priority": 26
     },
     {
+      "id": "hexscout",
+      "title": "HexScout",
+      "shortDescription": "Leading PulseChain onboarding and stats platform",
+      "description": "HEXscout can help you track your portfolio, store & manage assets, calculate yield, onboard new users, gain valuable insights, get support & learn about HEX.",
+      "url": "https://hexscout.com",
+      "logo": "https://hexscout.com/img/logo/main.png",
+      "categories": ["On-Ramp", "Stats"],
+      "author": "HexScout",
+      "external": false,
+      "priority": 26
+    },
+    {
       "id": "pulseln",
       "title": "PulseLN Bridge",
       "shortDescription": "Multi-chain Bridge and Swap Platform",
