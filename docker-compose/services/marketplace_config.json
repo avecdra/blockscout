@@ -44,7 +44,7 @@
     ],
     "author": "9inch",
     "external": false,
-    "priority": 1
+    "priority": 25
   },
   {
     "id": "phux-dex",
@@ -99,7 +99,7 @@
     "description": "Frenkabal is a DeFi platform offering various financial services on PulseChain.",
     "url": "https://frenkabal.com/",
     "externalUrl": "https://frenkabal.com/",
-    "logo": "https://frenkabal.com/assets/frenklabal_applogo-6_AgUeHs.png",
+    "logo": "https://i.ibb.co/QjkbFv36/applestorelogo.png",
     "categories": [
       "DeFi",
       "Analytics"
@@ -107,6 +107,21 @@
     "author": "Frenkabal",
     "external": false,
     "priority": 22
+  },
+  {
+    "id": "libertyswap",
+    "title": "LibertySwap",
+    "shortDescription": "Cross-chain Bridge by LibertySwap",
+    "description": "LibertySwap is a cross-chain bridge enabling seamless asset transfers between PulseChain and other networks with gasless transactions.",
+    "url": "https://libertyswap.finance/",
+    "externalUrl": "https://libertyswap.finance/",
+    "logo": "https://libertyswap.finance/logo.svg",
+    "categories": [
+      "Bridge"
+    ],
+    "author": "LibertySwap",
+    "external": false,
+    "priority": 21
   },
   {
     "id": "pulseln",
@@ -338,6 +353,21 @@
     "priority": 8
   },
   {
+    "id": "hyperlane",
+    "title": "HyperLane Nexus",
+    "shortDescription": "Cross-chain Bridge by HyperLane",
+    "description": "HyperLane is a permissionless interoperability protocol for cross-chain communication with 500k+ monthly users across 130 chains. Transfer assets between PulseChain and multiple other networks almost instantly.",
+    "url": "https://nexus.hyperlane.xyz/?origin=ethereum&destination=pulsechain&token=0x7E5db36f762A3eae5d6ef18f16dEe9DF619bb539",
+    "externalUrl": "https://nexus.hyperlane.xyz/?origin=ethereum&destination=pulsechain&token=0x7E5db36f762A3eae5d6ef18f16dEe9DF619bb539",
+    "logo": "https://nexus.hyperlane.xyz/_next/static/media/app-logo.6fd88c71.svg",
+    "categories": [
+      "Bridge"
+    ],
+    "author": "HyperLane",
+    "external": false,
+    "priority": 7
+  },
+  {
     "id": "0xcoast",
     "title": "0xCoast",
     "shortDescription": "On/Off-Ramp Service for PulseChain",
@@ -456,6 +486,6 @@
     ],
     "author": "HexScout",
     "external": false,
-    "priority": 25
+    "priority": 1
   }
 ]
