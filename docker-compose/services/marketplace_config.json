@@ -12,7 +12,7 @@
       "DeFi"
     ],
     "author": "9mm.pro",
-    "external": false,
+    "external": true,
     "priority": 28
   },
   {
@@ -27,7 +27,7 @@
       "DeFi"
     ],
     "author": "PulseX",
-    "external": false,
+    "external": true,
     "priority": 27
   },
   {
@@ -43,8 +43,8 @@
       "DeFi"
     ],
     "author": "9inch",
-    "external": false,
-    "priority": 25
+    "external": true,
+    "priority": 22
   },
   {
     "id": "phux-dex",
@@ -59,7 +59,7 @@
       "DeFi"
     ],
     "author": "Phux",
-    "external": false,
+    "external": true,
     "priority": 24
   },
   {
@@ -74,8 +74,8 @@
       "DeFi"
     ],
     "author": "9mm.pro",
-    "external": false,
-    "priority": 22
+    "external": true,
+    "priority": 25
   },
   {
     "id": "hoami",
@@ -89,7 +89,7 @@
       "DeFi"
     ],
     "author": "HOA",
-    "external": false,
+    "external": true,
     "priority": 22
   },
   {
@@ -105,7 +105,7 @@
       "Analytics"
     ],
     "author": "Frenkabal",
-    "external": false,
+    "external": true,
     "priority": 22
   },
   {
@@ -120,7 +120,7 @@
       "Bridge"
     ],
     "author": "LibertySwap",
-    "external": false,
+    "external": true,
     "priority": 21
   },
   {
@@ -134,7 +134,7 @@
       "Bridge"
     ],
     "author": "PulseLN",
-    "external": false,
+    "external": true,
     "priority": 21
   },
   {
@@ -149,7 +149,7 @@
       "NFT"
     ],
     "author": "The Staker Class",
-    "external": false,
+    "external": true,
     "priority": 21
   },
   {
@@ -165,7 +165,7 @@
       "DeFi"
     ],
     "author": "EmpSeal",
-    "external": false,
+    "external": true,
     "priority": 20
   },
   {
@@ -181,7 +181,7 @@
       "DeFi"
     ],
     "author": "PLSfolio",
-    "external": false,
+    "external": true,
     "priority": 19
   },
   {
@@ -197,7 +197,7 @@
       "DeFi"
     ],
     "author": "Dextop",
-    "external": false,
+    "external": true,
     "priority": 18
   },
   {
@@ -213,7 +213,7 @@
       "DeFi"
     ],
     "author": "Hedron",
-    "external": false,
+    "external": true,
     "priority": 17
   },
   {
@@ -228,7 +228,7 @@
       "DeFi"
     ],
     "author": "0xBistro",
-    "external": false,
+    "external": true,
     "priority": 16
   },
   {
@@ -244,7 +244,7 @@
       "DeFi"
     ],
     "author": "SparkSwap",
-    "external": false,
+    "external": true,
     "priority": 15
   },
   {
@@ -259,7 +259,7 @@
       "Bridge"
     ],
     "author": "TokenSex",
-    "external": false,
+    "external": true,
     "priority": 14
   },
   {
@@ -274,7 +274,7 @@
       "Bridge"
     ],
     "author": "ChangeNOW",
-    "external": false,
+    "external": true,
     "priority": 13
   },
   {
@@ -289,7 +289,7 @@
       "Bridge"
     ],
     "author": "SparkSwap",
-    "external": false,
+    "external": true,
     "priority": 12
   },
   {
@@ -304,7 +304,7 @@
       "Bridge"
     ],
     "author": "HoudiniSwap",
-    "external": false,
+    "external": true,
     "priority": 11
   },
   {
@@ -319,7 +319,7 @@
       "Bridge"
     ],
     "author": "Gas.zip",
-    "external": false,
+    "external": true,
     "priority": 10
   },
   {
@@ -334,7 +334,7 @@
       "Bridge"
     ],
     "author": "PulseChain",
-    "external": false,
+    "external": true,
     "priority": 9
   },
   {
@@ -349,7 +349,7 @@
       "Bridge"
     ],
     "author": "BlockBlend",
-    "external": false,
+    "external": true,
     "priority": 8
   },
   {
@@ -364,8 +364,8 @@
       "Bridge"
     ],
     "author": "HyperLane",
-    "external": false,
-    "priority": 7
+    "external": true,
+    "priority": 25
   },
   {
     "id": "0xcoast",
@@ -379,7 +379,7 @@
       "On/Off-Ramp"
     ],
     "author": "0xCoast",
-    "external": false,
+    "external": true,
     "priority": 7
   },
   {
@@ -394,7 +394,7 @@
       "DEX-Aggregators"
     ],
     "author": "Piteas",
-    "external": false,
+    "external": true,
     "priority": 6
   },
   {
@@ -409,7 +409,7 @@
       "DEX-Aggregators"
     ],
     "author": "PulseSwap",
-    "external": false,
+    "external": true,
     "priority": 4
   },
   {
@@ -425,7 +425,7 @@
       "DeFi"
     ],
     "author": "Function Island",
-    "external": false,
+    "external": true,
     "priority": 3
   },
   {
@@ -440,7 +440,7 @@
       "DeFi"
     ],
     "author": "Phame",
-    "external": false,
+    "external": true,
     "priority": 3
   },
   {
@@ -455,7 +455,7 @@
       "DeFi"
     ],
     "author": "Phiat",
-    "external": false,
+    "external": true,
     "priority": 2
   },
   {
@@ -470,7 +470,7 @@
       "Marketplace"
     ],
     "author": "PulseMarket",
-    "external": false,
+    "external": true,
     "priority": 1
   },
   {
@@ -485,7 +485,7 @@
       "Stats"
     ],
     "author": "HexScout",
-    "external": false,
-    "priority": 1
+    "external": true,
+    "priority": 23
   }
 ]
