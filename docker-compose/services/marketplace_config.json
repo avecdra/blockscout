@@ -44,7 +44,7 @@
     ],
     "author": "9inch",
     "external": true,
-    "priority": 22
+    "priority": 1
   },
   {
     "id": "phux-dex",
@@ -107,6 +107,23 @@
     "author": "Frenkabal",
     "external": true,
     "priority": 22
+  },
+  {
+    "id": "pulse-tablet",
+    "title": "Pulse Tablet",
+    "shortDescription": "Community doodle-to-NFT minter on PulseChain",
+    "description": "$TABLET is the first community doodle-to-NFT minter on PulseChain. Anyone can take a simple drawing, & mint it as an NFT using $TABLET. Every mint burns $TABLET. Once reserved for elites, the Tablet is now in your hands. Mint away!",
+    "url": "https://pulsechaintablet.com",
+    "externalUrl": "https://pulsechaintablet.com",
+    "logo": "https://i.imgur.com/7fqyqNS.jpeg",
+    "categories": [
+      "DeFi",
+      "NFT",
+      "Yield Farming"
+    ],
+    "author": "Pulse Tablet",
+    "external": true,
+    "priority": 23
   },
   {
     "id": "libertyswap",
