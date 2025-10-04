@@ -1,388 +1,461 @@
 [
-    {
-      "id": "9mm-dex",
-      "title": "9mm.pro DEX",
-      "shortDescription": "V2-V3 DEX with Revenue Share mechanism",
-      "description": "http://9mm.pro is a decentralized exchange offering unique trading features and deep liquidity pools on PulseChain.",
-      "url": "https://dex.9mm.pro/swap?chain=pulsechain&embedded=true",
-      "externalUrl": "https://dex.9mm.pro/swap?chain=pulsechain",
-      "logo": "https://dex.9mm.pro/logo.png",
-      "categories": ["DEX", "DeFi"],
-      "author": "9mm.pro",
-      "external": false,
-      "priority": 1
-    },
-    {
-      "id": "9x",
-      "title": "9X DEX Aggregator",
-      "shortDescription": "Advanced DEX Aggregator for PulseChain",
-      "description": "Multi-DEX aggregator providing optimal swap routes and best prices across PulseChain DEXes",
-      "url": "https://9x.9mm.pro/#/swap?chainId=369&theme=dark&embedded=true",
-      "externalUrl": "https://9x.9mm.pro/#/swap?chainId=369",
-      "logo": "https://9x.9mm.pro/static/media/9mmx.b40c30eda3b2f66f65ed.png",
-      "categories": ["DeFi"],
-      "author": "9mm.pro",
-      "external": false,
-      "priority": 5
-    },
-    {
-      "id": "function-island",
-      "title": "Function Island DEX",
-      "shortDescription": "Decentralized Exchange on PulseChain",
-      "description": "Function Island is a decentralized exchange offering trading services on PulseChain.",
-      "url": "https://dex.functionisland.com/#/swap",
-      "externalUrl": "https://dex.functionisland.com/#/swap",
-      "logo": "https://dex.functionisland.com/static/media/logo.ee5e7340.png",
-      "categories": ["DEX", "DeFi"],
-      "author": "Function Island",
-      "external": false,
-      "priority": 24
-    },
-    {
-      "id": "phux-dex",
-      "title": "Phux DEX",
-      "shortDescription": "Decentralized Exchange for PulseChain",
-      "description": "Phux is a decentralized exchange platform for trading on PulseChain.",
-      "url": "https://phux.io/#/pulse",
-      "externalUrl": "https://phux.io/#/pulse",
-      "logo": "https://phux.io/favicon.ico",
-      "categories": ["DEX", "DeFi"],
-      "author": "Phux",
-      "external": false,
-      "priority": 3
-    },
-    {
-      "id": "9inch",
-      "title": "9inch",
-      "shortDescription": "DEX platform for PulseChain",
-      "description": "9inch is a decentralized exchange platform for trading on PulseChain.",
-      "url": "https://app.9inch.io/?chain=pulse",
-      "externalUrl": "https://app.9inch.io/?chain=pulse",
-      "logo": "https://app.9inch.io/favicon.ico",
-      "categories": ["DEX", "DeFi"],
-      "author": "9inch",
-      "external": false,
-      "priority": 2
-    },
-    {
-      "id": "dextop",
-      "title": "Dextop",
-      "shortDescription": "Decentralized Exchange Platform",
-      "description": "Dextop is a decentralized exchange platform for trading cryptocurrencies on PulseChain.",
-      "url": "https://dex.dextop.pro/",
-      "externalUrl": "https://dex.dextop.pro/",
-      "logo": "https://dex.dextop.pro/favicon.ico",
-      "categories": ["DEX", "DeFi"],
-      "author": "Dextop",
-      "external": false,
-      "priority": 9
-    },
-    {
-      "id": "0xbistro",
-      "title": "0xBistro",
-      "shortDescription": "Decentralized OTC on PulseChain",
-      "description": "0xBistro is a Over-The-Counter platform on PulseChain.",
-      "url": "https://www.0xbistro.io/",
-      "externalUrl": "https://www.0xbistro.io/",
-      "logo": "https://www.0xbistro.io/favicon.ico",
-      "categories": ["DeFi"],
-      "author": "0xBistro",
-      "external": false,
-      "priority": 11
-    },
-    {
-      "id": "hedron-swap",
-      "title": "Hedron Swap",
-      "shortDescription": "DEX platform by Hedron",
-      "description": "Hedron Swap is a decentralized UniSwap Frontend for PulseChain.",
-      "url": "https://swap.hedron.pro/#/swap",
-      "externalUrl": "https://swap.hedron.pro/#/swap",
-      "logo": "https://swap.hedron.pro/favicon.png",
-      "categories": ["DEX", "DeFi"],
-      "author": "Hedron",
-      "external": false,
-      "priority": 10
-    },
-    {
-      "id": "sparkswap",
-      "title": "SparkSwap",
-      "shortDescription": "Decentralized Exchange Platform",
-      "description": "SparkSwap is a decentralized exchange platform for trading cryptocurrencies on PulseChain.",
-      "url": "https://sparkswap.xyz/#/",
-      "externalUrl": "https://sparkswap.xyz/#/",
-      "logo": "https://sparkswap.xyz/favicon.ico",
-      "categories": ["DEX", "DeFi"],
-      "author": "SparkSwap",
-      "external": false,
-      "priority": 12
-    },
-    {
-      "id": "tokensex",
-      "title": "TokenSex",
-      "shortDescription": "Cross-chain Bridge for PulseChain",
-      "description": "TokenSex is a cross-chain bridge service for transferring assets to and from PulseChain.",
-      "url": "https://tokensex.link/",
-      "externalUrl": "https://tokensex.link/",
-      "logo": "https://tokensex.link/favicon.png",
-      "categories": ["Bridge"],
-      "author": "TokenSex",
-      "external": false,
-      "priority": 13
-    },
-    {
-      "id": "changenow",
-      "title": "ChangeNOW",
-      "shortDescription": "Cross-chain Bridge and Exchange",
-      "description": "ChangeNOW is a cross-chain bridge and exchange service supporting PulseChain and multiple other networks.",
-      "url": "https://changenow.io/",
-      "externalUrl": "https://changenow.io/",
-      "logo": "https://changenow.io/favicon.ico",
-      "categories": ["Bridge"],
-      "author": "ChangeNOW",
-      "external": false,
-      "priority": 14
-    },
-    {
-      "id": "sparkswap-bridge",
-      "title": "SparkSwap Bridge",
-      "shortDescription": "Cross-chain Bridge by SparkSwap",
-      "description": "SparkSwap Bridge is a cross-chain bridge service for transferring assets between PulseChain and other networks.",
-      "url": "https://exchange.sparkswap.xyz/#/bridge",
-      "externalUrl": "https://exchange.sparkswap.xyz/#/bridge",
-      "logo": "https://exchange.sparkswap.xyz/favicon.ico",
-      "categories": ["Bridge"],
-      "author": "SparkSwap",
-      "external": false,
-      "priority": 15
-    },
-    {
-      "id": "houdiniswap",
-      "title": "HoudiniSwap",
-      "shortDescription": "Cross-chain Bridge Service",
-      "description": "HoudiniSwap is a cross-chain bridge service for transferring assets between PulseChain and other networks.",
-      "url": "https://houdiniswap.com/?tokenIn=ETH&tokenOut=PLS",
-      "externalUrl": "https://houdiniswap.com/?tokenIn=ETH&tokenOut=PLS",
-      "logo": "https://houdiniswap.com/favicon.ico",
-      "categories": ["Bridge"],
-      "author": "HoudiniSwap",
-      "external": false,
-      "priority": 16
-    },
-    {
-      "id": "gas-zip",
-      "title": "Gas.zip",
-      "shortDescription": "Cross-chain Bridge Service",
-      "description": "Gas.zip is a cross-chain bridge service for transferring assets between PulseChain and other networks.",
-      "url": "https://www.gas.zip/",
-      "externalUrl": "https://www.gas.zip/",
-      "logo": "https://www.gas.zip/favicon/favicon-32x32.png",
-      "categories": ["Bridge"],
-      "author": "Gas.zip",
-      "external": false,
-      "priority": 17
-    },
-    {
-      "id": "pulsechain-bridge",
-      "title": "PulseChain Bridge",
-      "shortDescription": "Official PulseChain Bridge",
-      "description": "The official PulseChain Bridge for transferring assets between PulseChain and Ethereum.",
-      "url": "https://bridge.pulsechain.com/",
-      "externalUrl": "https://bridge.pulsechain.com/",
-      "logo": "https://bridge.mypinata.cloud/ipfs/bafybeif242ld54nzjg2aqxvfse23wpbkqbyqasj3usgslccuajnykonzo4/favicon-32x32.png",
-      "categories": ["Bridge"],
-      "author": "PulseChain",
-      "external": false,
-      "priority": 18
-    },
-    {
-      "id": "blockblend",
-      "title": "BlockBlend",
-      "shortDescription": "Cross-chain Bridge Service",
-      "description": "BlockBlend is a cross-chain bridge service for transferring assets between PulseChain and other networks.",
-      "url": "https://blockblend.io/bridge",
-      "externalUrl": "https://blockblend.io/bridge",
-      "logo": "https://blockblend.io/images/favicon/favicon-32x32.png",
-      "categories": ["Bridge"],
-      "author": "BlockBlend",
-      "external": false,
-      "priority": 19
-    },
-    {
-      "id": "0xcoast",
-      "title": "0xCoast",
-      "shortDescription": "On/Off-Ramp Service for PulseChain",
-      "description": "0xCoast provides on and off-ramp services for PulseChain, allowing users to convert between fiat and crypto.",
-      "url": "https://0xcoast.com/",
-      "externalUrl": "https://0xcoast.com/",
-      "logo": "https://0xcoast.com/wp-content/uploads/2024/08/cropped-coast-logo-150x150.png",
-      "categories": ["On/Off-Ramp"],
-      "author": "0xCoast",
-      "external": false,
-      "priority": 20
-    },
-    {
-      "id": "piteas",
-      "title": "Piteas",
-      "shortDescription": "DEX Aggregator for PulseChain",
-      "description": "Piteas is a DEX aggregator providing optimal swap routes across multiple DEXes on PulseChain.",
-      "url": "https://app.piteas.io/",
-      "externalUrl": "https://app.piteas.io/",
-      "logo": "https://app.piteas.io/favicon.png",
-      "categories": ["DEX-Aggregators"],
-      "author": "Piteas",
-      "external": false,
-      "priority": 21
-    },
-    {
-      "id": "pulseswap",
-      "title": "PulseSwap",
-      "shortDescription": "DEX Aggregator for PulseChain",
-      "description": "PulseSwap is a DEX aggregator providing optimal swap routes across multiple DEXes on PulseChain.",
-      "url": "https://pulseswap.io/?chain=pulsechain&from=0x0000000000000000000000000000000000000000",
-      "externalUrl": "https://pulseswap.io/?chain=pulsechain&from=0x0000000000000000000000000000000000000000",
-      "logo": "https://pulseswap.io/PulseSwapio_1.svg",
-      "categories": ["DEX-Aggregators"],
-      "author": "PulseSwap",
-      "external": false,
-      "priority": 23
-    },
-    {
-      "id": "phame",
-      "title": "Phame",
-      "shortDescription": "DeFi Trading Platform",
-      "description": "Phame is a DeFi trading platform on PulseChain offering various financial services.",
-      "url": "https://phame.io/#/trade",
-      "externalUrl": "https://phame.io/#/trade",
-      "logo": "https://phame.io/favicon/favicon.ico",
-      "categories": ["DeFi"],
-      "author": "Phame",
-      "external": false,
-      "priority": 24
-    },
-    {
-      "id": "phiat",
-      "title": "Phiat",
-      "shortDescription": "DeFi Dashboard and Services",
-      "description": "Phiat provides a comprehensive DeFi dashboard and various financial services on PulseChain.",
-      "url": "https://dapp.phiat.io/#/dashboard",
-      "externalUrl": "https://dapp.phiat.io/#/dashboard",
-      "logo": "https://phatty.io/img/tokens/phiat.png",
-      "categories": ["DeFi"],
-      "author": "Phiat",
-      "external": false,
-      "priority": 25
-    },
-    {
-      "id": "pulsemarket",
-      "title": "PulseMarket",
-      "shortDescription": "Leading NFT marketplace on PulseChain",
-      "description": "PulseMarket is the premier NFT marketplace on PulseChain, offering a wide range of digital collectibles and artwork.",
-      "url": "https://pulsemarket.app",
-      "logo": "https://cdn.dexscreener.com/fetch?src=https%3A%2F%2Fcoin-images.coingecko.com%2Fcoins%2Fimages%2F34675%2Flarge%2FHOC.png%3F1705683057",
-      "categories": ["NFT", "Marketplace"],
-      "author": "PulseMarket",
-      "external": false,
-      "priority": 26
-    },
-    {
-      "id": "hexscout",
-      "title": "HexScout",
-      "shortDescription": "Leading PulseChain onboarding and stats platform",
-      "description": "HEXscout can help you track your portfolio, store & manage assets, calculate yield, onboard new users, gain valuable insights, get support & learn about HEX.",
-      "url": "https://hexscout.com",
-      "logo": "https://hexscout.com/img/logo/main.png",
-      "categories": ["On-Ramp", "Stats"],
-      "author": "HexScout",
-      "external": false,
-      "priority": 26
-    },
-    {
-      "id": "pulseln",
-      "title": "PulseLN Bridge",
-      "shortDescription": "Multi-chain Bridge and Swap Platform",
-      "description": "Cross-chain bridge and swap platform supporting PulseChain, Lightning Network, BNB Chain, Ethereum, Solana, and more networks",
-      "url": "https://app.pulseln.com/?ref=4kn8O73R85s4866Rn588n9212035S7p9QP40p2q141",
-      "logo": "https://help.pulseln.com/images/p/l/n/-/i/pln-index10-eb3c5aa2.png",
-      "categories": ["Bridge"],
-      "author": "PulseLN",
-      "external": false,
-      "priority": 6
-    },
-    {
-      "id": "empseal-bridge",
-      "title": "EmpSeal Native Bridge",
-      "shortDescription": "Cross-chain bridge for PulseChain assets",
-      "description": "EmpSeal is a native bridge providing secure and efficient cross-chain transfers for PulseChain assets.",
-      "url": "https://www.empseal.xyz/native-bridge",
-      "externalUrl": "https://www.empseal.xyz/native-bridge",
-      "logo": "https://pbs.twimg.com/profile_images/1897752690194522112/p-gRMQ-S_400x400.jpg",
-      "categories": ["Bridge", "DeFi"],
-      "author": "EmpSeal",
-      "external": false,
-      "priority": 7
-    },
-    {
-      "id": "staker-class",
-      "title": "The Staker Class",
-      "shortDescription": "PulsePhunks",
-      "description": "The Staker Class",
-      "url": "https://thestakerclass.com/",
-      "externalUrl": "https://thestakerclass.com/",
-      "logo": "https://www.hexpulse.info/logos/thestakerclass-256.png",
-      "categories": ["NFT"],
-      "author": "The Staker Class",
-      "external": false,
-      "priority": 6
-    },
-    {
-      "id": "hoami",
-      "title": "Hex Orange Address Mining Instance",
-      "shortDescription": "Peel 2 Peel",
-      "description": "The Hex Orange Address Minting Instance represents a fractional share within the TangGang community, symbolizing 1/10,000th of the collective value. This token is designed to foster community participation and engagement, inviting holders to be involved in various community-led initiatives.",
-      "url": "https://app.hexoacoin.com/",
-      "externalUrl": "https://app.hexoacoin.com/",
-      "logo": "https://app.hexoacoin.com/favicon.ico",
-      "categories": ["DeFi"],
-      "author": "HOA",
-      "external": false,
-      "priority": 5
-    },
-    {
-      "id": "pulsex",
-      "title": "PulseX",
-      "shortDescription": "PulseChain's native DEX",
-      "description": "PulseX is the native decentralized exchange on PulseChain, offering deep liquidity and low fees.",
-      "url": "https://pulsex.mypinata.cloud/ipfs/bafybeibzu7nje2o2tufb3ifitjrto3n3xcwon7fghq2igtcupulfubnrim/",
-      "logo": "https://dd.dexscreener.com/ds-data/tokens/pulsechain/0x95b303987a60c71504d99aa1b13b4da07b0790ab.png?size=lg&key=105144",
-      "categories": ["DEX", "DeFi"],
-      "author": "PulseX",
-      "external": false,
-      "priority": 12
-    },
-    {
-      "id": "frenkabal",
-      "title": "Frenkabal",
-      "shortDescription": "DeFi Platform on PulseChain",
-      "description": "Frenkabal is a DeFi platform offering various financial services on PulseChain.",
-      "url": "https://frenkabal.com/",
-      "externalUrl": "https://frenkabal.com/",
-      "logo": "https://frenkabal.com/assets/frenklabal_applogo-6_AgUeHs.png",
-      "categories": ["DeFi","Analytics"],
-      "author": "Frenkabal",
-      "external": false,
-      "priority": 5
-    },
-    {
-      "id": "plsfolio",
-      "title": "PLSfolio",
-      "shortDescription": "Portfolio Tracker for PulseChain",
-      "description": "PLSfolio is a portfolio tracking and analytics tool for PulseChain assets.",
-      "url": "https://plsfolio.com/",
-      "externalUrl": "https://plsfolio.com/",
-      "logo": "https://plsfolio.com/favicon.ico",
-      "categories": ["Analytics", "DeFi"],
-      "author": "PLSfolio",
-      "external": false,
-      "priority": 8
-    }
-  ]
+  {
+    "id": "9mm-dex",
+    "title": "9mm.pro DEX",
+    "shortDescription": "V2-V3 DEX with Revenue Share mechanism",
+    "description": "http://9mm.pro is a decentralized exchange offering unique trading features and deep liquidity pools on PulseChain.",
+    "url": "https://dex.9mm.pro/swap?chain=pulsechain&embedded=true",
+    "externalUrl": "https://dex.9mm.pro/swap?chain=pulsechain",
+    "logo": "https://dex.9mm.pro/logo.png",
+    "categories": [
+      "DEX",
+      "DeFi"
+    ],
+    "author": "9mm.pro",
+    "external": false,
+    "priority": 28
+  },
+  {
+    "id": "pulsex",
+    "title": "PulseX",
+    "shortDescription": "PulseChain's native DEX",
+    "description": "PulseX is the native decentralized exchange on PulseChain, offering deep liquidity and low fees.",
+    "url": "https://pulsex.mypinata.cloud/ipfs/bafybeibzu7nje2o2tufb3ifitjrto3n3xcwon7fghq2igtcupulfubnrim/",
+    "logo": "https://dd.dexscreener.com/ds-data/tokens/pulsechain/0x95b303987a60c71504d99aa1b13b4da07b0790ab.png?size=lg&key=105144",
+    "categories": [
+      "DEX",
+      "DeFi"
+    ],
+    "author": "PulseX",
+    "external": false,
+    "priority": 27
+  },
+  {
+    "id": "9inch",
+    "title": "9inch",
+    "shortDescription": "DEX platform for PulseChain",
+    "description": "9inch is a decentralized exchange platform for trading on PulseChain.",
+    "url": "https://app.9inch.io/?chain=pulse",
+    "externalUrl": "https://app.9inch.io/?chain=pulse",
+    "logo": "https://app.9inch.io/favicon.ico",
+    "categories": [
+      "DEX",
+      "DeFi"
+    ],
+    "author": "9inch",
+    "external": false,
+    "priority": 1
+  },
+  {
+    "id": "phux-dex",
+    "title": "Phux DEX",
+    "shortDescription": "Decentralized Exchange for PulseChain",
+    "description": "Phux is a decentralized exchange platform for trading on PulseChain.",
+    "url": "https://phux.io/#/pulse",
+    "externalUrl": "https://phux.io/#/pulse",
+    "logo": "https://phux.io/favicon.ico",
+    "categories": [
+      "DEX",
+      "DeFi"
+    ],
+    "author": "Phux",
+    "external": false,
+    "priority": 24
+  },
+  {
+    "id": "9x",
+    "title": "9X DEX Aggregator",
+    "shortDescription": "Advanced DEX Aggregator for PulseChain",
+    "description": "Multi-DEX aggregator providing optimal swap routes and best prices across PulseChain DEXes",
+    "url": "https://9x.9mm.pro/#/swap?chainId=369&theme=dark&embedded=true",
+    "externalUrl": "https://9x.9mm.pro/#/swap?chainId=369",
+    "logo": "https://9x.9mm.pro/static/media/9mmx.b40c30eda3b2f66f65ed.png",
+    "categories": [
+      "DeFi"
+    ],
+    "author": "9mm.pro",
+    "external": false,
+    "priority": 22
+  },
+  {
+    "id": "hoami",
+    "title": "Hex Orange Address Mining Instance",
+    "shortDescription": "Peel 2 Peel",
+    "description": "The Hex Orange Address Minting Instance represents a fractional share within the TangGang community, symbolizing 1/10,000th of the collective value. This token is designed to foster community participation and engagement, inviting holders to be involved in various community-led initiatives.",
+    "url": "https://app.hexoacoin.com/",
+    "externalUrl": "https://app.hexoacoin.com/",
+    "logo": "https://app.hexoacoin.com/favicon.ico",
+    "categories": [
+      "DeFi"
+    ],
+    "author": "HOA",
+    "external": false,
+    "priority": 22
+  },
+  {
+    "id": "frenkabal",
+    "title": "Frenkabal",
+    "shortDescription": "DeFi Platform on PulseChain",
+    "description": "Frenkabal is a DeFi platform offering various financial services on PulseChain.",
+    "url": "https://frenkabal.com/",
+    "externalUrl": "https://frenkabal.com/",
+    "logo": "https://frenkabal.com/assets/frenklabal_applogo-6_AgUeHs.png",
+    "categories": [
+      "DeFi",
+      "Analytics"
+    ],
+    "author": "Frenkabal",
+    "external": false,
+    "priority": 22
+  },
+  {
+    "id": "pulseln",
+    "title": "PulseLN Bridge",
+    "shortDescription": "Multi-chain Bridge and Swap Platform",
+    "description": "Cross-chain bridge and swap platform supporting PulseChain, Lightning Network, BNB Chain, Ethereum, Solana, and more networks",
+    "url": "https://app.pulseln.com/?ref=4kn8O73R85s4866Rn588n9212035S7p9QP40p2q141",
+    "logo": "https://help.pulseln.com/images/p/l/n/-/i/pln-index10-eb3c5aa2.png",
+    "categories": [
+      "Bridge"
+    ],
+    "author": "PulseLN",
+    "external": false,
+    "priority": 21
+  },
+  {
+    "id": "staker-class",
+    "title": "The Staker Class",
+    "shortDescription": "PulsePhunks",
+    "description": "The Staker Class",
+    "url": "https://thestakerclass.com/",
+    "externalUrl": "https://thestakerclass.com/",
+    "logo": "https://www.hexpulse.info/logos/thestakerclass-256.png",
+    "categories": [
+      "NFT"
+    ],
+    "author": "The Staker Class",
+    "external": false,
+    "priority": 21
+  },
+  {
+    "id": "empseal-bridge",
+    "title": "EmpSeal Native Bridge",
+    "shortDescription": "Cross-chain bridge for PulseChain assets",
+    "description": "EmpSeal is a native bridge providing secure and efficient cross-chain transfers for PulseChain assets.",
+    "url": "https://www.empseal.xyz/native-bridge",
+    "externalUrl": "https://www.empseal.xyz/native-bridge",
+    "logo": "https://pbs.twimg.com/profile_images/1897752690194522112/p-gRMQ-S_400x400.jpg",
+    "categories": [
+      "Bridge",
+      "DeFi"
+    ],
+    "author": "EmpSeal",
+    "external": false,
+    "priority": 20
+  },
+  {
+    "id": "plsfolio",
+    "title": "PLSfolio",
+    "shortDescription": "Portfolio Tracker for PulseChain",
+    "description": "PLSfolio is a portfolio tracking and analytics tool for PulseChain assets.",
+    "url": "https://plsfolio.com/",
+    "externalUrl": "https://plsfolio.com/",
+    "logo": "https://plsfolio.com/favicon.ico",
+    "categories": [
+      "Analytics",
+      "DeFi"
+    ],
+    "author": "PLSfolio",
+    "external": false,
+    "priority": 19
+  },
+  {
+    "id": "dextop",
+    "title": "Dextop",
+    "shortDescription": "Decentralized Exchange Platform",
+    "description": "Dextop is a decentralized exchange platform for trading cryptocurrencies on PulseChain.",
+    "url": "https://dex.dextop.pro/",
+    "externalUrl": "https://dex.dextop.pro/",
+    "logo": "https://dex.dextop.pro/favicon.ico",
+    "categories": [
+      "DEX",
+      "DeFi"
+    ],
+    "author": "Dextop",
+    "external": false,
+    "priority": 18
+  },
+  {
+    "id": "hedron-swap",
+    "title": "Hedron Swap",
+    "shortDescription": "DEX platform by Hedron",
+    "description": "Hedron Swap is a decentralized UniSwap Frontend for PulseChain.",
+    "url": "https://swap.hedron.pro/#/swap",
+    "externalUrl": "https://swap.hedron.pro/#/swap",
+    "logo": "https://swap.hedron.pro/favicon.png",
+    "categories": [
+      "DEX",
+      "DeFi"
+    ],
+    "author": "Hedron",
+    "external": false,
+    "priority": 17
+  },
+  {
+    "id": "0xbistro",
+    "title": "0xBistro",
+    "shortDescription": "Decentralized OTC on PulseChain",
+    "description": "0xBistro is a Over-The-Counter platform on PulseChain.",
+    "url": "https://www.0xbistro.io/",
+    "externalUrl": "https://www.0xbistro.io/",
+    "logo": "https://www.0xbistro.io/favicon.ico",
+    "categories": [
+      "DeFi"
+    ],
+    "author": "0xBistro",
+    "external": false,
+    "priority": 16
+  },
+  {
+    "id": "sparkswap",
+    "title": "SparkSwap",
+    "shortDescription": "Decentralized Exchange Platform",
+    "description": "SparkSwap is a decentralized exchange platform for trading cryptocurrencies on PulseChain.",
+    "url": "https://sparkswap.xyz/#/",
+    "externalUrl": "https://sparkswap.xyz/#/",
+    "logo": "https://sparkswap.xyz/favicon.ico",
+    "categories": [
+      "DEX",
+      "DeFi"
+    ],
+    "author": "SparkSwap",
+    "external": false,
+    "priority": 15
+  },
+  {
+    "id": "tokensex",
+    "title": "TokenSex",
+    "shortDescription": "Cross-chain Bridge for PulseChain",
+    "description": "TokenSex is a cross-chain bridge service for transferring assets to and from PulseChain.",
+    "url": "https://tokensex.link/",
+    "externalUrl": "https://tokensex.link/",
+    "logo": "https://tokensex.link/favicon.png",
+    "categories": [
+      "Bridge"
+    ],
+    "author": "TokenSex",
+    "external": false,
+    "priority": 14
+  },
+  {
+    "id": "changenow",
+    "title": "ChangeNOW",
+    "shortDescription": "Cross-chain Bridge and Exchange",
+    "description": "ChangeNOW is a cross-chain bridge and exchange service supporting PulseChain and multiple other networks.",
+    "url": "https://changenow.io/",
+    "externalUrl": "https://changenow.io/",
+    "logo": "https://changenow.io/favicon.ico",
+    "categories": [
+      "Bridge"
+    ],
+    "author": "ChangeNOW",
+    "external": false,
+    "priority": 13
+  },
+  {
+    "id": "sparkswap-bridge",
+    "title": "SparkSwap Bridge",
+    "shortDescription": "Cross-chain Bridge by SparkSwap",
+    "description": "SparkSwap Bridge is a cross-chain bridge service for transferring assets between PulseChain and other networks.",
+    "url": "https://exchange.sparkswap.xyz/#/bridge",
+    "externalUrl": "https://exchange.sparkswap.xyz/#/bridge",
+    "logo": "https://exchange.sparkswap.xyz/favicon.ico",
+    "categories": [
+      "Bridge"
+    ],
+    "author": "SparkSwap",
+    "external": false,
+    "priority": 12
+  },
+  {
+    "id": "houdiniswap",
+    "title": "HoudiniSwap",
+    "shortDescription": "Cross-chain Bridge Service",
+    "description": "HoudiniSwap is a cross-chain bridge service for transferring assets between PulseChain and other networks.",
+    "url": "https://houdiniswap.com/?tokenIn=ETH&tokenOut=PLS",
+    "externalUrl": "https://houdiniswap.com/?tokenIn=ETH&tokenOut=PLS",
+    "logo": "https://houdiniswap.com/favicon.ico",
+    "categories": [
+      "Bridge"
+    ],
+    "author": "HoudiniSwap",
+    "external": false,
+    "priority": 11
+  },
+  {
+    "id": "gas-zip",
+    "title": "Gas.zip",
+    "shortDescription": "Cross-chain Bridge Service",
+    "description": "Gas.zip is a cross-chain bridge service for transferring assets between PulseChain and other networks.",
+    "url": "https://www.gas.zip/",
+    "externalUrl": "https://www.gas.zip/",
+    "logo": "https://www.gas.zip/favicon/favicon-32x32.png",
+    "categories": [
+      "Bridge"
+    ],
+    "author": "Gas.zip",
+    "external": false,
+    "priority": 10
+  },
+  {
+    "id": "pulsechain-bridge",
+    "title": "PulseChain Bridge",
+    "shortDescription": "Official PulseChain Bridge",
+    "description": "The official PulseChain Bridge for transferring assets between PulseChain and Ethereum.",
+    "url": "https://bridge.pulsechain.com/",
+    "externalUrl": "https://bridge.pulsechain.com/",
+    "logo": "https://bridge.mypinata.cloud/ipfs/bafybeif242ld54nzjg2aqxvfse23wpbkqbyqasj3usgslccuajnykonzo4/favicon-32x32.png",
+    "categories": [
+      "Bridge"
+    ],
+    "author": "PulseChain",
+    "external": false,
+    "priority": 9
+  },
+  {
+    "id": "blockblend",
+    "title": "BlockBlend",
+    "shortDescription": "Cross-chain Bridge Service",
+    "description": "BlockBlend is a cross-chain bridge service for transferring assets between PulseChain and other networks.",
+    "url": "https://blockblend.io/bridge",
+    "externalUrl": "https://blockblend.io/bridge",
+    "logo": "https://blockblend.io/images/favicon/favicon-32x32.png",
+    "categories": [
+      "Bridge"
+    ],
+    "author": "BlockBlend",
+    "external": false,
+    "priority": 8
+  },
+  {
+    "id": "0xcoast",
+    "title": "0xCoast",
+    "shortDescription": "On/Off-Ramp Service for PulseChain",
+    "description": "0xCoast provides on and off-ramp services for PulseChain, allowing users to convert between fiat and crypto.",
+    "url": "https://0xcoast.com/",
+    "externalUrl": "https://0xcoast.com/",
+    "logo": "https://0xcoast.com/wp-content/uploads/2024/08/cropped-coast-logo-150x150.png",
+    "categories": [
+      "On/Off-Ramp"
+    ],
+    "author": "0xCoast",
+    "external": false,
+    "priority": 7
+  },
+  {
+    "id": "piteas",
+    "title": "Piteas",
+    "shortDescription": "DEX Aggregator for PulseChain",
+    "description": "Piteas is a DEX aggregator providing optimal swap routes across multiple DEXes on PulseChain.",
+    "url": "https://app.piteas.io/",
+    "externalUrl": "https://app.piteas.io/",
+    "logo": "https://app.piteas.io/favicon.png",
+    "categories": [
+      "DEX-Aggregators"
+    ],
+    "author": "Piteas",
+    "external": false,
+    "priority": 6
+  },
+  {
+    "id": "pulseswap",
+    "title": "PulseSwap",
+    "shortDescription": "DEX Aggregator for PulseChain",
+    "description": "PulseSwap is a DEX aggregator providing optimal swap routes across multiple DEXes on PulseChain.",
+    "url": "https://pulseswap.io/?chain=pulsechain&from=0x0000000000000000000000000000000000000000",
+    "externalUrl": "https://pulseswap.io/?chain=pulsechain&from=0x0000000000000000000000000000000000000000",
+    "logo": "https://pulseswap.io/PulseSwapio_1.svg",
+    "categories": [
+      "DEX-Aggregators"
+    ],
+    "author": "PulseSwap",
+    "external": false,
+    "priority": 4
+  },
+  {
+    "id": "function-island",
+    "title": "Function Island DEX",
+    "shortDescription": "Decentralized Exchange on PulseChain",
+    "description": "Function Island is a decentralized exchange offering trading services on PulseChain.",
+    "url": "https://dex.functionisland.com/#/swap",
+    "externalUrl": "https://dex.functionisland.com/#/swap",
+    "logo": "https://dex.functionisland.com/static/media/logo.ee5e7340.png",
+    "categories": [
+      "DEX",
+      "DeFi"
+    ],
+    "author": "Function Island",
+    "external": false,
+    "priority": 3
+  },
+  {
+    "id": "phame",
+    "title": "Phame",
+    "shortDescription": "DeFi Trading Platform",
+    "description": "Phame is a DeFi trading platform on PulseChain offering various financial services.",
+    "url": "https://phame.io/#/trade",
+    "externalUrl": "https://phame.io/#/trade",
+    "logo": "https://phame.io/favicon/favicon.ico",
+    "categories": [
+      "DeFi"
+    ],
+    "author": "Phame",
+    "external": false,
+    "priority": 3
+  },
+  {
+    "id": "phiat",
+    "title": "Phiat",
+    "shortDescription": "DeFi Dashboard and Services",
+    "description": "Phiat provides a comprehensive DeFi dashboard and various financial services on PulseChain.",
+    "url": "https://dapp.phiat.io/#/dashboard",
+    "externalUrl": "https://dapp.phiat.io/#/dashboard",
+    "logo": "https://phatty.io/img/tokens/phiat.png",
+    "categories": [
+      "DeFi"
+    ],
+    "author": "Phiat",
+    "external": false,
+    "priority": 2
+  },
+  {
+    "id": "pulsemarket",
+    "title": "PulseMarket",
+    "shortDescription": "Leading NFT marketplace on PulseChain",
+    "description": "PulseMarket is the premier NFT marketplace on PulseChain, offering a wide range of digital collectibles and artwork.",
+    "url": "https://pulsemarket.app",
+    "logo": "https://cdn.dexscreener.com/fetch?src=https%3A%2F%2Fcoin-images.coingecko.com%2Fcoins%2Fimages%2F34675%2Flarge%2FHOC.png%3F1705683057",
+    "categories": [
+      "NFT",
+      "Marketplace"
+    ],
+    "author": "PulseMarket",
+    "external": false,
+    "priority": 1
+  },
+  {
+    "id": "hexscout",
+    "title": "HexScout",
+    "shortDescription": "Leading PulseChain onboarding and stats platform",
+    "description": "HEXscout can help you track your portfolio, store & manage assets, calculate yield, onboard new users, gain valuable insights, get support & learn about HEX.",
+    "url": "https://hexscout.com",
+    "logo": "https://hexscout.com/img/logo/main.png",
+    "categories": [
+      "On-Ramp",
+      "Stats"
+    ],
+    "author": "HexScout",
+    "external": false,
+    "priority": 25
+  }
+]
