@@ -47,6 +47,23 @@
     "priority": 1
   },
   {
+    "id": "pulsesend",
+    "title": "PulseSend",
+    "shortDescription": "Send, receive, and trade crypto assets",
+    "description": "The easiest way to send, receive, and trade crypto assets.",
+    "url": "https://pulsesend.io/",
+    "externalUrl": "https://pulsesend.io/",
+    "logo": "https://pulsesend.io/attached_assets/generated-icon.png",
+    "categories": [
+      "DeFi",
+      "Finance",
+      "Tools"
+    ],
+    "author": "PulseSend",
+    "external": true,
+    "priority": 24
+  },
+  {
     "id": "phux-dex",
     "title": "Phux DEX",
     "shortDescription": "Decentralized Exchange for PulseChain",
@@ -60,7 +77,7 @@
     ],
     "author": "Phux",
     "external": true,
-    "priority": 24
+    "priority": 18
   },
   {
     "id": "9x",
@@ -215,7 +232,7 @@
     ],
     "author": "Dextop",
     "external": true,
-    "priority": 18
+    "priority": 1
   },
   {
     "id": "hedron-swap",
