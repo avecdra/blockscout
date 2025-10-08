@@ -53,7 +53,7 @@
     "description": "The easiest way to send, receive, and trade crypto assets.",
     "url": "https://pulsesend.io/",
     "externalUrl": "https://pulsesend.io/",
-    "logo": "https://cdn.dexscreener.com/cms/images/a113639c00b16bfa7a1b2d702a1040ead7c23d70e0b18d1c0e129395de41f487?width=64&height=64&fit=crop&quality=95&format=auto",
+    "logo": "https://pulsesend.io/attached_assets/generated-icon.png",
     "categories": [
       "DeFi",
       "Finance",
@@ -64,18 +64,19 @@
     "priority": 24
   },
   {
-    "id": "phux-dex",
-    "title": "Phux DEX",
-    "shortDescription": "Decentralized Exchange for PulseChain",
-    "description": "Phux is a decentralized exchange platform for trading on PulseChain.",
-    "url": "https://phux.io/#/pulse",
-    "externalUrl": "https://phux.io/#/pulse",
-    "logo": "https://phux.io/favicon.ico",
+    "id": "pulsewatch",
+    "title": "PulseWatch",
+    "shortDescription": "The ultimate PulseChain portfolio management platform",
+    "description": "Track tokens, LP positions, transactions, and analyze your DeFi performance across multiple wallets.",
+    "url": "https://www.pulsewatch.app/",
+    "externalUrl": "https://www.pulsewatch.app/",
+    "logo": "https://i.ibb.co/GQhNLx81/Pulse-Watch.png",
     "categories": [
-      "DEX",
-      "DeFi"
+      "Tools",
+      "DeFi",
+      "Finance"
     ],
-    "author": "Phux",
+    "author": "PulseWatch",
     "external": true,
     "priority": 18
   },
@@ -521,5 +522,21 @@
     "author": "HexScout",
     "external": true,
     "priority": 23
+  },
+  {
+    "id": "phux-dex",
+    "title": "Phux DEX",
+    "shortDescription": "Decentralized Exchange for PulseChain",
+    "description": "Phux is a decentralized exchange platform for trading on PulseChain.",
+    "url": "https://phux.io/#/pulse",
+    "externalUrl": "https://phux.io/#/pulse",
+    "logo": "https://phux.io/favicon.ico",
+    "categories": [
+      "DEX",
+      "DeFi"
+    ],
+    "author": "Phux",
+    "external": true,
+    "priority": 2
   }
 ]
